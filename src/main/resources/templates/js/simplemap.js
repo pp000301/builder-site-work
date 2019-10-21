@@ -1,5 +1,5 @@
 /* global google, define */
-define( ['jquery', 'static/js/underscore'], function ($, _ ) {
+define( ['jquery', 'templates/js/underscore'], function ($, _ ) {
 	'use strict';
 	/**
 	 * Google Maps

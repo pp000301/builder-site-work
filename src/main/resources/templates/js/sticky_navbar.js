@@ -3,7 +3,7 @@
  * Sticky navbar
  */
 
-define( ['jquery', 'static/js/underscore'], function ($, _ ) {
+define( ['jquery', 'templates/js/underscore'], function ($, _ ) {
 	'use strict';
 
 	// flag var, null for the start before we test

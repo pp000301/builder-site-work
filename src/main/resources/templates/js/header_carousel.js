@@ -1,5 +1,5 @@
 /* global define, Modernizr */
-define( [ 'jquery', 'static/js/underscore', 'bootstrapCarousel' ], function ($, _ ) {
+define( [ 'jquery', 'templates/js/underscore', 'bootstrapCarousel' ], function ($, _ ) {
 	'use strict';
 
 	/**
